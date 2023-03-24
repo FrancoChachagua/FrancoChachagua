@@ -1,6 +1,7 @@
 ### Hi👋 
 
-![bannerGithub1](https://user-images.githubusercontent.com/84291744/227399730-30d09184-cf82-4799-84b4-a408a6e0e9d2.gif)
+![giftGithubChachagua](https://user-images.githubusercontent.com/84291744/227402866-13c48106-b01e-44a5-a30a-622056b0933f.gif)
+
 
 <br>
 
