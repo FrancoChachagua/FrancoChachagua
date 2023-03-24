@@ -23,4 +23,4 @@ I'm from Cordoba, Argentina and im a Trainee
 Node JS, React JS, Javascript, HTML, CSS, SASS
 
 ### 🔗 Links
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franco-chachagua-595421241/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://cdn-icons-png.flaticon.com/512/3991/3991775.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/franco-chachagua-595421241/)  
