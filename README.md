@@ -1,8 +1,10 @@
 ### Hi👋 
 
-<a href="https://ibb.co/3SbNmh6"><img src="https://i.ibb.co/L9ytdpj/banner-Github1.gif" alt="banner-Github1" border="0"></a>
+![bannerGithub1](https://user-images.githubusercontent.com/84291744/227399730-30d09184-cf82-4799-84b4-a408a6e0e9d2.gif)
 
-##### 🚀 About Me
+<br>
+
+### 🚀 About Me
 I'm a full stack developer
 I'm from Cordoba, Argentina and im a Trainee
 
@@ -19,5 +21,5 @@ I'm from Cordoba, Argentina and im a Trainee
 ### 🛠 Skills
 Node JS, React JS, Javascript, HTML, CSS, SASS
 
-#### 🔗 Links
+### 🔗 Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/franco-chachagua-595421241/)  
