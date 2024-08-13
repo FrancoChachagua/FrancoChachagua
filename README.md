@@ -11,13 +11,13 @@ I'm from Cordoba, Argentina and im a Trainee
 
 👩‍💻 I'm currently looking for a job!
 
-🧠 I'm a currently learning about Object Oriented Programming (OOP) in Platzi
+🧠 I'm a currently learning about Object Oriented Programming (OOP) in Universidad Tecnológica Nacional
 
 💬 Ask me about Javascript
 
 😄 I like to contribute positively and bring everything I know to each project
 
-⚡️ Fun fact: I believe, a perfect cup of coffee can be the ultimate solution for any stress
+⚡️ Fun fact: I love coffee
 
 ### 🛠 Skills
 Node JS, React JS, Javascript, HTML, CSS, SASS
