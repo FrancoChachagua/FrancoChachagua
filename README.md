@@ -1,13 +1,9 @@
 ### Hi👋 
 
-/*![gifGithubFrancoChachagua](https://user-images.githubusercontent.com/84291744/227553549-a07e4ab8-ba26-4fa8-b9b2-0334cc823282.gif)*/
-
-
 <br>
 
 ### 🚀 About Me
 I'm a full stack developer
-I'm from Cordoba, Argentina
 
 👩‍💻 I'm currently looking for a job!
 
